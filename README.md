@@ -2,5 +2,5 @@
 # week2-assignment
 6.0.2022 dersinde yapılan çalışmaları anlayarak tekrar ettim.
 
-###not:
+### not:
 yükleme sırasında bir sorun yaşadığım için api-ornek dosyasının içinde olması gereken dosyalar dışarıda duruyor.
